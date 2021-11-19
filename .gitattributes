@@ -1,0 +1,32 @@
+# All files
+*                   text=auto
+
+# EditorConfig
+*.editorconfig      text eol=lf
+
+# Git special files
+.gitignore          text eol=lf
+.gitattributes      text eol=lf
+.gitkeep            text eol=lf
+.gitmodules         text eol=lf
+
+# License
+LICENSE             text eol=lf
+*.license           text eol=lf
+
+# Plain text
+*.txt               text eol=lf
+
+# Shell scirpts
+*.sh                text eol=lf
+*.bash              text eol=lf
+*.fish              text eol=lf
+
+# Windows CMD and PowerShell scripts
+*.bat               text eol=crlf
+*.cmd               text eol=crlf
+*.ps1               text eol=crlf
+
+# Markdown
+*.md                text eol=lf
+*.markdown          text eol=lf
